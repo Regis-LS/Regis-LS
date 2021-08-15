@@ -1,7 +1,7 @@
 ### Hi, welcome to my Github
 
-- 🔭 I do some game dev projects
-- 🌱 I’m currently learning Gml, C# and Rust
+- 🔭 I do some web and game projects
+- 🌱 I’m currently learning Gml, JavaScript, Html5
 - 📫 regiscaualessa@gmail.com
 - 😄 He/him
 <div>

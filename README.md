@@ -1,9 +1,8 @@
 ### Hi, welcome to my Github
 
-- 🔭 I do some web and game projects
-- 🌱 I’m currently learning Gml, JavaScript, Html5
+- 🔭 I do projects
+
 - 📫 regiscaualessa@gmail.com
-- 😄 He/him
 <div>
   <a href="https://github.com/Regis-LS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Regis-LS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
